@@ -1,0 +1,25 @@
+.marvel-card {
+    width: 70%;
+    margin: 10px;
+}
+
+.marvel-card img {
+    border-radius: 15px;
+    height: 400px;
+    width: 286px;
+}
+
+.marvel-name {
+    font-weight: bold;
+}
+
+.marvel-text {
+    font-size: smaller;
+}
+
+.marvel-card button {
+    width: 100%;
+    height: 30px;
+    font-size: large;
+    margin-top: 15px;
+}
